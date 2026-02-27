@@ -23,5 +23,9 @@ I am a passionate IT student at XU CCS College, driven with nothing but food and
 - 🔭 I’m currently trying to work hard and get more proper sleep in to have a healthy sleep schedule 
 - 🥀 Hopefully pass my subjects for the semester.
 
-  
+## 🧠 Fun Fact
+- I beat three XCEED students in Tekken.
+- I got beat up by the XCEED founder in Tekken.
+
+
 Thanks!
