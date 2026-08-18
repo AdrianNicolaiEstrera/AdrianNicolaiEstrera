@@ -1,6 +1,6 @@
 # Hi, I'm Adrian Estrera! 👋
 
-I am a passionate IT student at XU CCS College, driven with nothing but food and curiousity for technology. I hope my journey provides me with insights and more questions and hopefully answers for what I want to know, learn, and understand. 
+I am a passionate 3rd Year - IT student at XU CCS College, driven with nothing but food and curiousity for technology. I hope my journey provides me with insights and more questions and hopefully answers for what I want to know, learn, and understand. 
 ![AdrianNicolaiEstrera Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AdrianNicolaiEstrera)
 ## 🚀 About Me
 - 🔭 I'm currently pursuing my Bachelor's Degree in Information Technology at XU CCS College.
@@ -24,8 +24,9 @@ I am a passionate IT student at XU CCS College, driven with nothing but food and
 - 🥀 Hopefully pass my subjects for the semester.
 
 ## 🧠 Fun Fact
-- I beat three XCEED students in Tekken.
-- I got beat up by the XCEED founder in Tekken.
+- I made my first game using Java
+- Made another game using CSS, JavaScript and HTML
+- I fixed a GameBoy
 
 
 Thanks!
